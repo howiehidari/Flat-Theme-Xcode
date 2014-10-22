@@ -15,7 +15,7 @@ Find 'Flat Theme Xcode'
 ## Preview
 
 ### Flat Theme Dark
-![Flat Theme Dark](https://github.com/etsushisa/Flat-Theme-Xcode/blob/master/Screen%20Shot%20Light.png "Flat Theme Dark")
+![Flat Theme Dark](https://github.com/etsushisa/Flat-Theme-Xcode/blob/master/Screen%20Shot%20Dark.png "Flat Theme Dark")
 
 ### Flat Theme Light
-![Flat Theme Light](https://github.com/etsushisa/Flat-Theme-Xcode/blob/master/Screen%20Shot%20Dark.png "Flat Theme Light")
+![Flat Theme Light](https://github.com/etsushisa/Flat-Theme-Xcode/blob/master/Screen%20Shot%20Light.png "Flat Theme Light")
