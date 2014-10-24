@@ -12,6 +12,9 @@ Find 'Flat Theme Xcode'
 2. Restart Xcode
 3. Have fun!
 
+## Font
+[Source Code Pro](http://adobe-fonts.github.io/source-code-pro/) is be used
+
 ## Preview
 
 ### Flat Theme Dark
